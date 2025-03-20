@@ -1,2 +1,2 @@
 # repositorioRUBEN
-repositorio para aprender a usar github
+mi primera contribucion 
